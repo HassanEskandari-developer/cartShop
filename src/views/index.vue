@@ -108,7 +108,7 @@ export default {
 
                 <!-- ////////////////////////////////////////////////// -->
 
-                <swiper @swiper="setThumbsSwiper" :spaceBetween="4" :slidesPerView="4" :freeMode="true"
+                 <swiper @swiper="setThumbsSwiper" :spaceBetween="4" :slidesPerView="4" :freeMode="true"
                     :watchSlidesProgress="true" :modules="modules" class="mySwiper">
                     <swiper-slide><img src="https://swiperjs.com/demos/images/nature-1.jpg" />
                     </swiper-slide><swiper-slide>
