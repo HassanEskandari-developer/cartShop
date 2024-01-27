@@ -17,7 +17,13 @@ import { RouterLink, RouterView } from 'vue-router'
   <RouterView />
 </template>
 
-<style scoped>
-
-
+<style>
+ 
+ body, body *{
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 400;
+ }
+ h1,h2{
+  font-weight: 700 !important;
+ }
 </style>
