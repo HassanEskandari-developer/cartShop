@@ -57,14 +57,14 @@ import { FreeMode, Navigation, Thumbs } from 'swiper/modules';
 export default {
     data() {
         return {
-            img1: '/public/images/image-product-1.jpg',
-            img2: '/public/images/image-product-2.jpg',
-            img3: '/public/images/image-product-3.jpg',
-            img4: '/public/images/image-product-4.jpg',
-            img1_2: '/public/images/image-product-1-thumbnail.jpg',
-            img2_2: '/public/images/image-product-2-thumbnail.jpg',
-            img3_2: '/public/images/image-product-3-thumbnail.jpg',
-            img4_2: '/public/images/image-product-4-thumbnail.jpg',
+            img1: '/images/image-product-1.jpg',
+            img2: '/images/image-product-2.jpg',
+            img3: '/images/image-product-3.jpg',
+            img4: '/images/image-product-4.jpg',
+            img1_2: '/images/image-product-1-thumbnail.jpg',
+            img2_2: '/images/image-product-2-thumbnail.jpg',
+            img3_2: '/images/image-product-3-thumbnail.jpg',
+            img4_2: '/images/image-product-4-thumbnail.jpg',
             modules: [Navigation, Thumbs],
             thumbSwiper: null
 
