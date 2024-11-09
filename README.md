@@ -1,29 +1,16 @@
 # card-shop
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+- [Demo Project](cart-shop-orpin.vercel.app)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Developed by Hassan Eskandari
 
-## Customize configuration
+- Created - 2023 
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Technologies Used - Html , css , tailwind, javascript , vue 
 
-## Project Setup
+- Role - Frontend
 
-```sh
-pnpm install
-```
+- How to reach me : with my [instagram]() and [linkedin]()
 
-### Compile and Hot-Reload for Development
 
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
